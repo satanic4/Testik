@@ -1,1 +1,1 @@
-print('hettttttttttttttll')
+print('hettttll')
