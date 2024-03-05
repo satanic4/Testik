@@ -6,6 +6,9 @@ students = []
 f = open('students(2).csv')
 name = f.readline().strip()
 j = 0
+
+
+
 for i in f:
     s = i.strip().split(',')
     students.append(Studentiki())
